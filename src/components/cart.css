@@ -1,0 +1,22 @@
+*{
+    /* background-color: brown; */
+    /* flex-wrap: wrap; */
+    
+    /* float: right; */
+}
+
+.okk{
+
+    /* display: flex; */
+    background-color: blue;
+
+    /* border-radius: 2px solid black; */
+
+}
+.done{
+    /* float:right; */
+    /* margin-right: 700px;
+    margin-left: 70px;
+    margin-top: 20px; */
+    flex-direction: row;
+}
